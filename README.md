@@ -1,4 +1,4 @@
-<h2> Hi, I'm Hiroto Din!</h2>
+
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=tamjid0x01&show_icons=true&theme=radical" width="380">
 <p><em>  Fullstack & Blockchain Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
 Passionate about safeguarding WEB3 & Blockchain! ❤️🔐 
@@ -30,7 +30,7 @@ func main(){
 ```
 
    
-[![](https://img.shields.io/twitter/follow/tamjid0x01?color=gray&logo=twitter&label=%40tamjid0x01&style=flat)](https://twitter.com/tamjid0x01)
+
 [![](https://img.shields.io/github/followers/tamjid0x01?color=gray&label=%40tamjid0x01&logo=GitHub)](https://github.com/tamjid0x01)
 [![](https://img.shields.io/github/stars/tamjid0x01?color=gray&logo=GitHub)](https://github.com/tamjid0x01)
 
