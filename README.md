@@ -32,11 +32,10 @@ func main(){
    
 
 
-[![](https://img.shields.io/github/stars/tamjid0x01?color=gray&logo=GitHub)](https://github.com/tamjid0x01)
+
 
 
    
-[![@tamjid0x01's Holopin board](https://holopin.io/api/user/board?user=tamjid0x01)](https://holopin.io/@tamjid0x01)
 
 <br>
 
