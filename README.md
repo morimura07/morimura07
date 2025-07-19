@@ -31,7 +31,7 @@ func main(){
 
    
 
-[![](https://img.shields.io/github/followers/tamjid0x01?color=gray&label=%40tamjid0x01&logo=GitHub)](https://github.com/tamjid0x01)
+
 [![](https://img.shields.io/github/stars/tamjid0x01?color=gray&logo=GitHub)](https://github.com/tamjid0x01)
 
 
