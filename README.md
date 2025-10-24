@@ -22,7 +22,7 @@ func main(){
   me := &Me{
     Job: " SmartContracts Security Research & Audit",
     Pronouns: "He/Him",
-    Code: "Solidity, Go and Python and Everythings",
+    Code: "Solidity, Rust, Go, Python, Move and Ruby&Rails",
     BestAndFavoriteSkill: "Smart contract Security, WEB3 & Blockchain :D"
   }
   _ = me
