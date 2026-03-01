@@ -1,7 +1,7 @@
 <h1 align="center"> <span style="color:#4A90E2;">MORIMURA</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Software+%26+Engieer;Full+Stack+Developer;Always+Exploring+Future+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Software+%26+Engineer;Full+Stack+Developer;Always+Exploring+Future+Tech" alt="Typing SVG" />
 </p>
 
 ---
