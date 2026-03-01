@@ -26,10 +26,26 @@ I’m always exploring new intersections between <b>AI, Web3 and Automation</b> 
 
 ---
 
-<h2 align="center">🚀 Core Skills</h2>
+<h2 align="center">🚀 General Skills</h2>
 
 <table align="center">
 <tr>
+    <td align="center" width="90">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
+    <br><b>React</b>
+  </td>
+    <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
+    <br><b>Python / AI</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=go" width="45" height="45" />
+    <br><b>Go</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" />
+    <br><b>GraphQL</b>
+  </td>
   <td align="center" width="90">
     <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" />
     <br><b>DeFi</b>
@@ -49,22 +65,6 @@ I’m always exploring new intersections between <b>AI, Web3 and Automation</b> 
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45" />
     <br><b>Haskell</b>
-  </td>
-  <td align="center" width="90">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-    <br><b>React</b>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
-    <br><b>Python / AI</b>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=go" width="45" height="45" />
-    <br><b>Go</b>
-  </td>
-  <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" />
-    <br><b>GraphQL</b>
   </td>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" />
@@ -116,6 +116,10 @@ I’m always exploring new intersections between <b>AI, Web3 and Automation</b> 
 </table>
 
 ---
+- **Core:** Python (PyTorch, Scikit-learn, XGBoost, MLflow, Optuna, Pandas, NumPy, Pytest), SQL, R
+- **ML/Visualization:** Seaborn, Matplotlib, Statsmodels
+- **Deployment:** Streamlit, FastAPI, Docker, AWS (Bedrock, SageMaker)
+- **Data:** MySQL, CSV, Medical Imaging (DICOM, NIfTI)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
