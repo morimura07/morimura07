@@ -116,7 +116,7 @@ I’m always exploring new intersections between <b>AI, Web3 and Automation</b> 
 </table>
 
 ---
-- **Core:** Python (PyTorch, Scikit-learn, XGBoost, MLflow, Optuna, Pandas, NumPy, Pytest), SQL, R
+- **Core:** Python (PyTorch, Scikit-learn, XGBoost, LightGBM, MLflow, Optuna, Pandas, NumPy, Pytest), SQL, R
 - **ML/Visualization:** Seaborn, Matplotlib, Statsmodels
 - **Deployment:** Streamlit, FastAPI, Docker, AWS (Bedrock, SageMaker)
 - **Data:** MySQL, CSV, Medical Imaging (DICOM, NIfTI)
